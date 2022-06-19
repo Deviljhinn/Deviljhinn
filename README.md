@@ -1,7 +1,7 @@
-- 🪬  Hi, I’m @Deviljhinn
-- 📫 I’m interested in Spirituality, God, Compassion, & Empathy.
-- 🌱 I’m currently learning React.js 
-- 💞️ I’m looking to collaborate on any kind of work that can help me develop my potential.
+- 🪬 Hi, I’m @Deviljhinn But you can call me Quinn.
+- 📫 I’m interested in Art, Coding, God, Compassion, & Empathy.
+- 🌱 I’m currently learning React.js & refreshing my Javascript with games and fun projects.
+- 💞️ I’m looking to collaborate on any kind of work that can help me develop my potential and land a job.
 - 👀 Looking to reach me? Shoot me a DM.
 
 <!---
