@@ -4,7 +4,6 @@
 - 💞️ I love to collaborate on any kind of project really. 
 - 👀 Looking to reach me? Shoot me a DM.
 
-## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
