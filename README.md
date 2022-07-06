@@ -2,7 +2,6 @@
 ![ok](https://badgen.net/badge/icon/vercel?icon=vercel&label)
 ![ok](https://badgen.net/badge/icon/bitcoin?icon=bitcoin&label)
 ![ok](https://badgen.net/badge/icon/discord?icon=discord&label)
-![ok](https://badgen.net/badge/icon/medium?icon=medium&label)
 ![ok](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)
 ![ok](https://badgen.net/badge/icon/typescript?icon=typescript&label)
 ![ok](https://badgen.net/badge/icon/twitter?icon=twitter&label)
