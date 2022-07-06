@@ -8,7 +8,7 @@
 - 🪬 Hi, call me Quinn.
 - 📫 I’m interested in Art, Coding, Spirituality, Compassion, & Empathy.
 - 🌱 I’m currently learning React.js & refreshing my Javascript with games and fun projects.
-- 💞️ I love to collaborate on any kind of project really. 
+- 💞️ I love food.
 - 👀 Looking to reach me? Shoot me a DM.
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Deviljhinn&theme=blue-green)
