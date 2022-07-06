@@ -11,7 +11,7 @@
 - 💞️ I love to collaborate on any kind of project really. 
 - 👀 Looking to reach me? Shoot me a DM.
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Deviljhinn&theme=blue-green)
 
 
 
