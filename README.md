@@ -4,7 +4,7 @@
 ![ok](https://badgen.net/badge/icon/discord?icon=discord&label)
 ![ok](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)
 ![ok](https://badgen.net/badge/icon/twitter?icon=twitter&label)
-- 🪬 Hi, call me Quinn.
+- 🪬 Hi, I'm James.
 - 📫 Art, Coding, Fitness, & Mental Health.
 - 👀 I love building with Blockchain tech (websites, defi, nfts, crypto, etc.)
 
