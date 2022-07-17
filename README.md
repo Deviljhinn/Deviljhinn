@@ -5,10 +5,10 @@
 ![ok](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)
 ![ok](https://badgen.net/badge/icon/twitter?icon=twitter&label)
 - 🪬 Hi, I'm James.
-- 📫 Art, Coding, Fitness, & Mental Health.
-- 👀 I love building with Blockchain tech (websites, defi, nfts, crypto, etc.)
+Art/Coding/Fitness/Mental Health.
+👀 I'm building with Blockchain tech and I enjoy it. (websites, defi, nfts, crypto, etc.)
 
-- I do most of my work freelancing and learned a lot.
+Most of my work comes from freelancing, but I'm looking to see how a company works.
 
 
 My Two Most Recent Projects Are A Gym Exercise App & A DeFi Exchange For A Cryptocurrency I Invented.
