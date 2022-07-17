@@ -8,7 +8,7 @@
 - Art/Coding/Fitness/Mental Health.
 - 👀 I'm building with Blockchain tech and I enjoy it. (websites, defi, nfts, crypto, etc.)
 
-Most of my work comes from freelancing, but I'm looking to see how a company works.
+I AM A FREELANCER. However I'm looking to get into a company.
 
 
 My Two Most Recent Projects Are A Gym Exercise App & A DeFi Exchange For A Cryptocurrency I Invented.
